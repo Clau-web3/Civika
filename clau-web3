@@ -1,0 +1,60 @@
+# 🗳️ Civika – Participación Ciudadana con Web3 🇭🇳
+
+**Civika** es una dApp (aplicación descentralizada) pensada para modernizar la participación ciudadana en Honduras. Utilizando tecnología blockchain, queremos facilitar votaciones transparentes, seguras y abiertas a la comunidad.
+
+---
+
+## 🚀 Visión del Proyecto
+
+💡 Crear una plataforma donde cualquier ciudadano pueda:
+- Participar en votaciones comunitarias o escolares
+- Proponer ideas o temas a discutir
+- Ver resultados en tiempo real de forma transparente
+
+---
+
+## 🎯 Objetivos
+
+- ✅ Diseñar una app fácil de usar, incluso sin experiencia previa en Web3
+- 🔐 Garantizar identidad única sin comprometer privacidad (soulbound tokens)
+- 🎁 Incentivar la participación con NFTs o tokens de reputación
+- 🌐 Usar blockchain (Base Network) para registrar decisiones
+
+---
+
+## 🛠️ Tecnologías que se usarán
+
+- Solidity para contratos inteligentes
+- Base Network para despliegue
+- Next.js o Vite para frontend
+- IPFS/Filecoin para archivos públicos
+- WalletConnect para acceso desde cualquier wallet
+
+---
+
+## 🗓️ Roadmap inicial
+
+| Etapa                   | Estado    | Fecha estimada |
+|-------------------------|-----------|----------------|
+| Idea y definición       | ✅ Listo  | Julio 2025     |
+| Boceto en Figma         | 🟡 En progreso | Julio 2025     |
+| Estructura de contratos | ⬜ Pendiente | Agosto 2025    |
+| Prototipo funcional     | ⬜ Pendiente | Septiembre 2025 |
+| MVP para hackathon      | ⬜ Pendiente | Octubre 2025   |
+
+---
+
+## 🤝 Buscando colaboradores
+
+Si te interesa el gobierno abierto, la tecnología cívica o la educación Web3, ¡hablemos!  
+Estoy buscando:
+- Diseñadores UX/UI
+- Frontend developers
+- Mentores en Web3 y legaltech
+
+---
+
+## 📫 Contacto
+
+- Email: clau22.cgmr@gmail.com
+- LinkedIn: [claudia-mejia](https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav)
