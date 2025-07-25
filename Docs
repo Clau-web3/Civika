@@ -1,0 +1,70 @@
+# 🧠 Idea del Proyecto: Civika
+
+## 🟣 Nombre del Proyecto
+**Civika** – Plataforma Web3 para participación ciudadana en Honduras.
+
+---
+
+## 🔍 Problema Identificado
+
+En Honduras, la participación ciudadana en decisiones públicas es limitada, desconectada y poco confiable.  
+Muchas personas no confían en las instituciones ni en los sistemas de votación actuales. Además:
+
+- No hay herramientas digitales descentralizadas para participación local.
+- No todos los ciudadanos tienen acceso o formación para procesos democráticos modernos.
+- Las comunidades rurales y jóvenes suelen estar fuera del proceso.
+
+---
+
+## 🌟 Solución Propuesta
+
+Civika será una **dApp accesible** que permitirá a cualquier ciudadano:
+
+- Participar en votaciones comunitarias, escolares o municipales.
+- Enviar propuestas y votar por ideas locales.
+- Recibir NFTs como comprobantes de participación o reputación.
+- Ver resultados registrados en blockchain de forma transparente.
+
+---
+
+## 🛠️ Componentes de la Solución
+
+| Componente               | Descripción |
+|--------------------------|-------------|
+| **Frontend**             | Aplicación en Next.js o Vite, adaptada a móviles. |
+| **Contratos inteligentes** | En Solidity sobre Base Network. Módulos para votación, identidad y verificación. |
+| **Identidad digital**    | Soulbound tokens (SBT) o verificación de identidad básica sin comprometer privacidad. |
+| **Almacenamiento**       | IPFS o Filecoin para guardar datos de propuestas, resultados, reglas, etc. |
+
+---
+
+## 🔐 Seguridad y privacidad
+
+- Cada wallet solo podrá votar una vez por evento.
+- Identidad pseudónima: no se almacena info personal.
+- Transparencia garantizada por blockchain.
+
+---
+
+## 🧱 Casos de uso
+
+- Votaciones escolares (líderes estudiantiles, actividades).
+- Participación en juntas de vecinos o cabildos abiertos.
+- Selección de presupuestos participativos en municipalidades.
+- Campañas ciudadanas (limpieza, deportes, cultura).
+
+---
+
+## 💡 Inspiraciones
+
+- Gitcoin Governance
+- Snapshot.org
+- Quadratic Voting
+
+---
+
+## 📅 Próximos pasos
+
+- Diseñar wireframes simples en Figma
+- Construir los contratos de votación
+- Prototipo funcional para hackathon
